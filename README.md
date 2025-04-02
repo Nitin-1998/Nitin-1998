@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nitin kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Python Developer from India</h3>
 
 <p align="left"> <img align="right" width="400px" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" /> </p>
 
-- 🔭 I’m currently working in **Kinzin Assist Pvt. Ltd.**
+- 🔭 I’m currently working in **VSachi Tech. Pvt. Ltd.**
 
 - 👨‍💻 All of my projects are available at [nitinkumar-portfolio.netlify.app](nitinkumar-portfolio.netlify.app)
 
